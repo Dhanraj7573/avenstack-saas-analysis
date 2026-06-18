@@ -166,10 +166,3 @@ feature_usage
 - **Editor:** VS Code with SQLite extension
 - **Language:** SQL
 
----
-
-## Author
-
-**Dhanraj Dodiya**
-Data & Reporting Lead Analyst | Finance + BI + SQL
-[GitHub](https://github.com/Dhanraj7573) | [LinkedIn](https://www.linkedin.com/in/dhanrajdodiya)
